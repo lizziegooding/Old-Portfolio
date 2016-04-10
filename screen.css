@@ -13,6 +13,9 @@ body {
 	font-family: "Avenir", Helvetica, sans-serif;
 	max-width: 1245px;
 	color: #58595B;
+	background-image: url(images/crossword.png);
+	margin-left: auto;
+	margin-right: auto;
 }
 
 
@@ -76,9 +79,7 @@ body {
 h2#writing {
 	margin: -50px 0 50px 380px;
 	letter-spacing: 5px;
-
 	font-weight: normal;
-
 }
 
 #content h2{
@@ -86,8 +87,6 @@ h2#writing {
 	letter-spacing: 5px;
 	padding-bottom: 55px;
 	font-weight: normal;
-
-
 }
 
 #content ul li{
