@@ -83,6 +83,7 @@ h2#writing {
 }
 
 #content h2{
+	text-align: center;
 	margin-top: 50px;
 	letter-spacing: 5px;
 	padding-bottom: 55px;
