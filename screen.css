@@ -30,10 +30,11 @@ li{
 	color: #58595B;
 	font-size: 25px;
 	display: inline;
-	float: right;
+	position: relative;
+	text-align: center;
 }
 
-a{
+ul li a{
 	text-decoration: none;
 }
 
