@@ -25,17 +25,15 @@ body {
 	text-decoration: none;
 }
 
-li{
+
+ul li a{
+	text-decoration: none;
 	padding: 50px;
 	color: #58595B;
 	font-size: 25px;
 	display: inline;
 	position: relative;
 	text-align: center;
-}
-
-ul li a{
-	text-decoration: none;
 }
 
 /*
