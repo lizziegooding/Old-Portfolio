@@ -29,8 +29,7 @@ p a{
 	text-decoration: none;
 	text-align: center;
 	display: inline;
-	margin-left: 250px;
-	margin-right: 250px;
+	margin: auto;
 	color: #58595B;
 	font-size: 30px;
 }
