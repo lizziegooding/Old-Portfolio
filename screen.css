@@ -18,10 +18,11 @@ body {
 
 
 #title{
+	text-align: center;
 	font-family: "Avenir", "Helvetica", "sans-serif";
 	color: #58595B;
-	font-size: 110px;
-	padding: 10px 10px 10px 10px;
+	font-size: 100px;
+	padding: 10px 10px 10px 40px;
 	text-decoration: none;
 }
 
