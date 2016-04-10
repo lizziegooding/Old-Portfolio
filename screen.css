@@ -26,13 +26,16 @@ body {
 }
 
 
-.class{
-	display: inline;
+#center{
 	text-align: center;
+	line-height: 35px;
+}
+
+#center li{
+	display: inline;
 	text-decoration: none;
 	color: #58595B;
 	font-size: 25px;
-	line-height: 35px;
 	list-style: none;
 }
 
