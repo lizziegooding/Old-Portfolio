@@ -25,12 +25,13 @@ body {
 	text-decoration: none;
 }
 
-p a{
+li{
 	margin: auto;
 	padding: 50px;
 	text-decoration: none;
 	color: #58595B;
 	font-size: 25px;
+	display: inline;
 }
 
 /*
