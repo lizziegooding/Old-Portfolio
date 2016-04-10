@@ -34,7 +34,6 @@ body {
 #center li{
 	display: inline;
 	text-decoration: none;
-	color: #58595B;
 	font-size: 25px;
 	list-style: none;
 }
@@ -42,6 +41,7 @@ body {
 #center li a{
 	text-decoration: none;
 	margin: 10px;
+	color: #58595B;
 }
 /*
 #wrapper ul {
