@@ -20,7 +20,8 @@ body {
 #title{
 	font-family: "Avenir", "Helvetica", "sans-serif";
 	color: #58595B;
-	font-size: 40px
+	font-size: 140px;
+	text-decoration: none;
 }
 
 #wrapper ul {
