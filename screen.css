@@ -37,8 +37,12 @@ body {
 	color: #58595B;
 	font-size: 25px;
 	list-style: none;
+	margin: 10px;
 }
 
+a{
+	text-decoration: none;
+}
 /*
 #wrapper ul {
 	list-style-type: none;
