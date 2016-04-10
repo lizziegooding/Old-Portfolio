@@ -26,17 +26,17 @@ body {
 }
 
 
-ul li a{
+.class{
 	display: inline;
-	position: relative;
 	text-align: center;
 	text-decoration: none;
-	padding: 50px;
 	color: #58595B;
 	font-size: 25px;
+	line-height: 35px;
+	list-style: none;
 }
 
-
+/*
 #wrapper ul {
 	list-style-type: none;
 	margin-top: -50px;
@@ -290,3 +290,4 @@ footer ul li a:hover{
 footer p{
 	margin: -15px 0 0 700px;
 }
+*/
