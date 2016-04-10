@@ -26,12 +26,11 @@ body {
 }
 
 p a{
-	text-decoration: none;
-	text-align: center;
-	display: inline;
 	margin: auto;
+	text-decoration: none;
+	display: inline;
 	color: #58595B;
-	font-size: 30px;
+	font-size: 22px;
 }
 
 /*
